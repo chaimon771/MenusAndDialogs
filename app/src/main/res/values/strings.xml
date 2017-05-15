@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_menu">Hello Menu</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+</resources>
